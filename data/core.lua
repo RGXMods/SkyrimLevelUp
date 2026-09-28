@@ -9,7 +9,7 @@ local RGX = assert(_G.RGXFramework, "SRLU: RGX-Framework not loaded")
 
 SRLU = SRLU or {}
 
-local ADDON_VERSION = "3.0.2"
+local ADDON_VERSION = "3.0.5"
 local ADDON_NAME = "SkyrimLevelUp"
 local PREFIX = "|Tinterface/addons/SkyrimLevelUp/media/icon:16:16|t - |cffffffff[|r|cffa0a0a0SRLU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/SkyrimLevelUp/media/icon:18:18|t [|cffa0a0a0S|r|cffffffffkyrim|r |cffa0a0a0L|r|cffffffffevel|r |cffa0a0a0U|r|cffffffffp!|r]"

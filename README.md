@@ -180,8 +180,11 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status |
 |-------------|-----------|--------|
-| **Midnight (Retail)** | `120007` | ✅ Fully Supported |
+| **Midnight (Retail)** | `120100` | ✅ Fully Supported |
+| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported |
 | **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported |
+| **Cataclysm Classic** | `40402` | ✅ Fully Supported |
+| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported |
 | **Burning Crusade Classic** | `20506` | ✅ Fully Supported |
 | **Classic Era** | `11509` | ✅ Fully Supported |
 
