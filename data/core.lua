@@ -49,9 +49,9 @@ print(PREFIX .. " " .. (L["HELP_HEADER"] or ""))
 print(PREFIX .. " " .. (L["HELP_TEST"] or ""))
 print(PREFIX .. " " .. (L["HELP_ENABLE"] or ""))
 print(PREFIX .. " " .. (L["HELP_DISABLE"] or ""))
-print(PREFIX .. " |cffffffff/srlu high|r - Use high quality sound")
-print(PREFIX .. " |cffffffff/srlu med|r - Use medium quality sound")
-print(PREFIX .. " |cffffffff/srlu low|r - Use low quality sound")
+print(PREFIX .. " " .. (L["HELP_HIGH"] or ""))
+print(PREFIX .. " " .. (L["HELP_MED"] or ""))
+print(PREFIX .. " " .. (L["HELP_LOW"] or ""))
 end
 
 local function HandleSlashCommand(args)

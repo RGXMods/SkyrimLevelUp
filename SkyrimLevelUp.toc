@@ -14,6 +14,7 @@
 ## X-Website: https://github.com/RGXMods/SkyrimLevelUp
 ## X-Curse-Project-ID: 594118
 ## X-Wago-ID: J96EkaGg
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 
 data\locales.lua
 data\core.lua
