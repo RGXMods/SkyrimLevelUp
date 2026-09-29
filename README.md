@@ -98,7 +98,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ### <span style="color:#8B4513">🔥 Why Choose SRLU?</span>
 - **<span style="color:#2dc26b">🎵 Epic Sound:</span>** <span style="color:#e67e23">The authentic Skyrim level-up chime in high, medium, and low quality</span>
 - **<span style="color:#8B4513">🌍 Multi-Version:</span>** <span style="color:#e67e23">Works across Classic Era, Burning Crusade Classic, Mists, and Retail</span>
-- **<span style="color:#b96ad9">🌐 Multi-Language:</span>** <span style="color:#e67e23">Supports 5 languages with automatic detection</span>
+- **<span style="color:#b96ad9">🌐 Multi-Language:</span>** <span style="color:#e67e23">Supports all 12 WoW client languages with automatic detection</span>
 - **<span style="color:#4ecdc4">🔇 Smart Muting:</span>** <span style="color:#e67e23">Auto-mutes WoW's default level-up sound</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
@@ -115,7 +115,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 | 🎚️ **Quality Options** | High, Medium, and Low quality sound variants |
 | 🔧 **Easy Commands** | Simple `/srlu` slash command interface |
 | 💾 **Persistent Settings** | Settings saved automatically between sessions |
-| 🌍 **Multi-Language** | 5 languages supported with automatic detection |
+| 🌍 **Multi-Language** | All 12 WoW client languages supported with automatic detection |
 | 🔇 **Smart Muting** | Auto-mutes WoW's default level-up sound |
 | ⚡ **Optimized** | Cached constants for maximum performance |
 | 🛡️ **Error Protected** | pcall error handling throughout |
@@ -133,9 +133,12 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | Language | Status | Language | Status |
 |----------|--------|----------|--------|
-| **English** | ✅ Supported | **German** | ✅ Supported |
-| **French** | ✅ Supported | **Spanish** | ✅ Supported |
-| **Russian** | ✅ Supported | | |
+| **English (enUS)** | ✅ Supported | **German (deDE)** | ✅ Supported |
+| **Spanish (esES)** | ✅ Supported | **Spanish (LatAm, esMX)** | ✅ Supported |
+| **French (frFR)** | ✅ Supported | **Italian (itIT)** | ✅ Supported |
+| **Korean (koKR)** | ✅ Supported | **Portuguese (Brazil, ptBR)** | ✅ Supported |
+| **Portuguese (Portugal, ptPT)** | ✅ Supported | **Russian (ruRU)** | ✅ Supported |
+| **Chinese (Simplified, zhCN)** | ✅ Supported | **Chinese (Traditional, zhTW)** | ✅ Supported |
 
 </div>
 
