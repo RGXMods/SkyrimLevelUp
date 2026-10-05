@@ -1,4 +1,4 @@
-﻿## Interface: 40402
+## Interface: 40402
 ## Version: 3.0.5
 ## Title:  |cff8B4513S|r|cffffffffkyrim|r |cff8B4513L|r|cffffffffevel-|r|cff8B4513U|r|cffffffffp|r|cff8B4513!|r
 ## Notes:  Play a Skyrim-inspired level-up sound!  |n|r  |cff8B4513/srlu -|r Open help  |n|r   |cff8B4513By DonnieDice|r
