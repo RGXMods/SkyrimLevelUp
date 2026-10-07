@@ -8,14 +8,14 @@
 [![SRLU](https://img.shields.io/badge/SRLU-Skyrim%20Level%20Up!-8B4513?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RGXMods/SkyrimLevelUp)
 [![RGX Mods](https://img.shields.io/badge/RGX-Mods%20Collection-8B1538?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/N7kdKAHVVF)
 
-### <span style="color:#8B4513">🌟 Join the </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Community</span> <span style="color:#3598db">-</span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme!</span> <span style="color:#8B4513">🌟</span>
+### <span style="color:#8B4513">Join the </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Community</span> <span style="color:#3598db">-</span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme!</span> <span style="color:#8B4513"></span>
 [![Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N7kdKAHVVF)
 
-### <span style="color:#8B4513">⚔️ </span> <span style="color:#e67e23">*"Fus Ro DAH!" — Now in World of Warcraft!*</span> <span style="color:#8B4513">⚔️</span>
+### <span style="color:#8B4513"></span> <span style="color:#e67e23">*"Fus Ro DAH!" — Now in World of Warcraft!*</span> <span style="color:#8B4513"></span>
 
 **<span style="color:#8B4513">S</span><span style="color:#8B4513">R</span><span style="color:#8B4513">L</span><span style="color:#8B4513">U</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that plays the iconic Skyrim level-up chime every time you gain a level — across supported WoW versions.</span>**
 
-**<span style="color:#8B4513">🎮 </span> <span style="color:#e67e23">Connect with fellow Dragonborn, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
+**<span style="color:#8B4513"></span> <span style="color:#e67e23">Connect with fellow Dragonborn, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
 
 ---
 
@@ -45,27 +45,27 @@
 
 ---
 
-## <span style="color:#8B4513">🌟 Join the </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods Community!</span>
+## <span style="color:#8B4513">Join the </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods Community!</span>
 
 <div align="center">
 
-### <span style="color:#b96ad9">💬 </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#8B4513">Discord</span> <span style="color:#3598db">-</span> <span style="color:#2dc26b">Your Gaming Home!</span>
+### <span style="color:#b96ad9"></span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#8B4513">Discord</span> <span style="color:#3598db">-</span> <span style="color:#2dc26b">Your Gaming Home!</span>
 
 [![Join Discord](https://img.shields.io/badge/Join%20Our%20Discord-RealmGX%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/N7kdKAHVVF)
 
-**<span style="color:#8B4513">🎮 </span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm </span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme</span>](https://realmgx.com) <span style="color:#3598db">-</span> <span style="color:#4ecdc4">Where WoW Enthusiasts Unite!</span>**
+**<span style="color:#8B4513"></span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm </span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme</span>](https://realmgx.com) <span style="color:#3598db">-</span> <span style="color:#4ecdc4">Where WoW Enthusiasts Unite!</span>**
 
-**<span style="color:#e67e23">✨ What awaits you in our Discord:</span>**
-- <span style="color:#2dc26b">🛠️ **Instant addon support**</span> <span style="color:#e67e23">from the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">team</span>
-- <span style="color:#ff6b6b">🎯 **Feature requests**</span> <span style="color:#e67e23">and direct dev communication</span>
-- <span style="color:#b96ad9">🚀 **Beta testing**</span> <span style="color:#e67e23">opportunities for new releases</span>
-- <span style="color:#4ecdc4">🤝 **Community of WoW players**</span> <span style="color:#e67e23">sharing tips and experiences</span>
-- <span style="color:#8B4513">📢 **First to know**</span> <span style="color:#e67e23">about new</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">releases</span>
-- <span style="color:#e67e23">🎉 **Events, giveaways**, and community activities</span>
+**<span style="color:#e67e23">What awaits you in our Discord:</span>**
+- <span style="color:#2dc26b">**Instant addon support**</span> <span style="color:#e67e23">from the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">team</span>
+- <span style="color:#ff6b6b">**Feature requests**</span> <span style="color:#e67e23">and direct dev communication</span>
+- <span style="color:#b96ad9">**Beta testing**</span> <span style="color:#e67e23">opportunities for new releases</span>
+- <span style="color:#4ecdc4">**Community of WoW players**</span> <span style="color:#e67e23">sharing tips and experiences</span>
+- <span style="color:#8B4513">**First to know**</span> <span style="color:#e67e23">about new</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">releases</span>
+- <span style="color:#e67e23">**Events, giveaways**, and community activities</span>
 
 <img src="media/logo.png" alt="SRLU Logo" width="100">
 
-**<span style="color:#ff6b6b">⚠️ WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia for Skyrim.</span>
+**<span style="color:#ff6b6b">WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia for Skyrim.</span>
 
 **<span style="color:#2dc26b">The Kiwi Says:</span>** <span style="color:#b96ad9">"Bwwiiiee."</span>
 
@@ -74,7 +74,7 @@
 ---
 
 <a id="support"></a>
-## <span style="color:#8B4513">💖 Support </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span>
+## <span style="color:#8B4513">Support </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span>
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 | | |
 |---|---|
 | [![Donate](https://img.shields.io/badge/Donate-CashApp-00C853?style=for-the-badge&logo=cash-app&logoColor=white)](https://bit.ly/3fyxxSU) | [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/donniedice) |
-| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/⭐-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/RGXMods/SkyrimLevelUp) |
+| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/RGXMods/SkyrimLevelUp) |
 
 _<span style="color:#e67e23">Every donation helps fund new features and improvements!</span>_
 
@@ -91,41 +91,41 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ---
 
-## <span style="color:#8B4513">⚔️ What is SRLU?</span>
+## <span style="color:#8B4513">What is SRLU?</span>
 
 **<span style="color:#8B4513">S</span><span style="color:#8B4513">R</span><span style="color:#8B4513">L</span><span style="color:#8B4513">U</span> <span style="color:#fff">|</span> <span style="color:#8B4513">Skyrim</span> <span style="color:#fff">Level-</span><span style="color:#8B4513">U</span><span style="color:#fff">p!</span>** <span style="color:#e67e23">brings the iconic</span> <span style="color:#8B4513">Skyrim</span> <span style="color:#e67e23">level-up sound to</span> <span style="color:#06c">World of Warcraft</span><span style="color:#e67e23">! Experience that epic, triumphant chime every time you level up — no more bland default sounds. Whether you're a veteran Dragonborn or new to Skyrim, this addon brings that satisfying level-up feeling to your WoW adventures.</span>
 
-### <span style="color:#8B4513">🔥 Why Choose SRLU?</span>
-- **<span style="color:#2dc26b">🎵 Epic Sound:</span>** <span style="color:#e67e23">The authentic Skyrim level-up chime in high, medium, and low quality</span>
-- **<span style="color:#8B4513">🌍 Multi-Version:</span>** <span style="color:#e67e23">Works across Classic Era, Burning Crusade Classic, Mists, and Retail</span>
-- **<span style="color:#b96ad9">🌐 Multi-Language:</span>** <span style="color:#e67e23">Supports all 12 WoW client languages with automatic detection</span>
-- **<span style="color:#4ecdc4">🔇 Smart Muting:</span>** <span style="color:#e67e23">Auto-mutes WoW's default level-up sound</span>
-- **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
+### <span style="color:#8B4513">Why Choose SRLU?</span>
+- **<span style="color:#2dc26b">Epic Sound:</span>** <span style="color:#e67e23">The authentic Skyrim level-up chime in high, medium, and low quality</span>
+- **<span style="color:#8B4513">Multi-Version:</span>** <span style="color:#e67e23">Works across Classic Era, Burning Crusade Classic, Mists, and Retail</span>
+- **<span style="color:#b96ad9">Multi-Language:</span>** <span style="color:#e67e23">Supports all 12 WoW client languages with automatic detection</span>
+- **<span style="color:#4ecdc4">Smart Muting:</span>** <span style="color:#e67e23">Auto-mutes WoW's default level-up sound</span>
+- **<span style="color:#ff6b6b">Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
 ---
 
 <a id="features"></a>
-## <span style="color:#8B4513">✨ Features</span>
+## <span style="color:#8B4513">Features</span>
 
 <div align="center">
 
 | Feature | Description |
 |---------|-------------|
-| 🎵 **Epic Sound** | Iconic Skyrim level-up chime plays on every level gained |
-| 🎚️ **Quality Options** | High, Medium, and Low quality sound variants |
-| 🔧 **Easy Commands** | Simple `/srlu` slash command interface |
-| 💾 **Persistent Settings** | Settings saved automatically between sessions |
-| 🌍 **Multi-Language** | All 12 WoW client languages supported with automatic detection |
-| 🔇 **Smart Muting** | Auto-mutes WoW's default level-up sound |
-| ⚡ **Optimized** | Cached constants for maximum performance |
-| 🛡️ **Error Protected** | pcall error handling throughout |
-| 🎮 **Multi-Version** | Works on supported WoW versions |
+| **Epic Sound** | Iconic Skyrim level-up chime plays on every level gained |
+| **Quality Options** | High, Medium, and Low quality sound variants |
+| **Easy Commands** | Simple `/srlu` slash command interface |
+| **Persistent Settings** | Settings saved automatically between sessions |
+| **Multi-Language** | All 12 WoW client languages supported with automatic detection |
+| **Smart Muting** | Auto-mutes WoW's default level-up sound |
+| **Optimized** | Cached constants for maximum performance |
+| **Error Protected** | pcall error handling throughout |
+| **Multi-Version** | Works on supported WoW versions |
 
 </div>
 
 ---
 
-## <span style="color:#8B4513">🌍 Language Support</span>
+## <span style="color:#8B4513">Language Support</span>
 
 <span style="color:#8B4513">S</span><span style="color:#8B4513">R</span><span style="color:#8B4513">L</span><span style="color:#8B4513">U</span> <span style="color:#e67e23">automatically detects your game language</span><span style="color:#3598db">:</span>
 
@@ -133,19 +133,19 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | Language | Status | Language | Status |
 |----------|--------|----------|--------|
-| **English (enUS)** | ✅ Supported | **German (deDE)** | ✅ Supported |
-| **Spanish (esES)** | ✅ Supported | **Spanish (LatAm, esMX)** | ✅ Supported |
-| **French (frFR)** | ✅ Supported | **Italian (itIT)** | ✅ Supported |
-| **Korean (koKR)** | ✅ Supported | **Portuguese (Brazil, ptBR)** | ✅ Supported |
-| **Portuguese (Portugal, ptPT)** | ✅ Supported | **Russian (ruRU)** | ✅ Supported |
-| **Chinese (Simplified, zhCN)** | ✅ Supported | **Chinese (Traditional, zhTW)** | ✅ Supported |
+| **English (enUS)** | Supported | **German (deDE)** | Supported |
+| **Spanish (esES)** | Supported | **Spanish (LatAm, esMX)** | Supported |
+| **French (frFR)** | Supported | **Italian (itIT)** | Supported |
+| **Korean (koKR)** | Supported | **Portuguese (Brazil, ptBR)** | Supported |
+| **Portuguese (Portugal, ptPT)** | Supported | **Russian (ruRU)** | Supported |
+| **Chinese (Simplified, zhCN)** | Supported | **Chinese (Traditional, zhTW)** | Supported |
 
 </div>
 
 ---
 
 <a id="quick-start"></a>
-## <span style="color:#8B4513">🚀 Quick Start</span>
+## <span style="color:#8B4513">Quick Start</span>
 
 1. **<span style="color:#2dc26b">Install</span>** <span style="color:#8B4513">S</span><span style="color:#8B4513">R</span><span style="color:#8B4513">L</span><span style="color:#8B4513">U</span> <span style="color:#e67e23">from your preferred platform</span>
 2. **<span style="color:#4ecdc4">Launch</span>** <span style="color:#06c">World of Warcraft</span>
@@ -156,7 +156,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="command-reference"></a>
-## <span style="color:#8B4513">📋 Command Reference</span>
+## <span style="color:#8B4513">Command Reference</span>
 
 <span style="color:#e67e23">Use</span> <span style="color:#2dc26b">`/srlu`</span> <span style="color:#e67e23">followed by</span><span style="color:#3598db">:</span>
 
@@ -177,19 +177,19 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="compatibility"></a>
-## <span style="color:#8B4513">📋 Compatibility</span>
+## <span style="color:#8B4513">Compatibility</span>
 
 <div align="center">
 
 | WoW Version | Interface | Status |
 |-------------|-----------|--------|
-| **Midnight (Retail)** | `120100` | ✅ Fully Supported |
-| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported |
-| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported |
-| **Cataclysm Classic** | `40402` | ✅ Fully Supported |
-| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported |
-| **Burning Crusade Classic** | `20506` | ✅ Fully Supported |
-| **Classic Era** | `11509` | ✅ Fully Supported |
+| **Midnight (Retail)** | `120100` | Fully Supported |
+| **WoW Forever (Beta)** | `16001` | Fully Supported |
+| **Mists of Pandaria Classic** | `50504` | Fully Supported |
+| **Cataclysm Classic** | `40402` | Fully Supported |
+| **Wrath of the Lich King Classic** | `38002` | Fully Supported |
+| **Burning Crusade Classic** | `20506` | Fully Supported |
+| **Classic Era** | `11509` | Fully Supported |
 
 </div>
 
@@ -198,7 +198,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="installation"></a>
-## <span style="color:#8B4513">📥 Installation</span>
+## <span style="color:#8B4513">Installation</span>
 
 1. **<span style="color:#2dc26b">Download</span>** <span style="color:#e67e23">from your preferred platform</span><span style="color:#3598db">:</span>
    - [<span style="color:#ff6b6b">CurseForge</span>](https://www.curseforge.com/wow/addons/srlu)
@@ -214,13 +214,13 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ---
 
-## <span style="color:#8B4513">🆕 What's New</span>
+## <span style="color:#8B4513">What's New</span>
 
 _<span style="color:#e67e23">See</span> [<span style="color:#8B4513">docs/CHANGES.md</span>](./docs/CHANGES.md) <span style="color:#e67e23">for the full release history and latest updates.</span>_
 
 ---
 
-## <span style="color:#8B4513">⚙️ Configuration Tips</span>
+## <span style="color:#8B4513">Configuration Tips</span>
 
 <table width="100%">
 <tr>
@@ -251,13 +251,13 @@ _<span style="color:#e67e23">See</span> [<span style="color:#8B4513">docs/CHANGE
 
 ---
 
-## <span style="color:#8B4513">🐛 Known Issues</span>
+## <span style="color:#8B4513">Known Issues</span>
 
 - <span style="color:#e67e23">No known issues at this time. Report any problems via</span> [<span style="color:#ff6b6b">GitHub Issues</span>](https://github.com/RGXMods/SkyrimLevelUp/issues) <span style="color:#e67e23">or our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)<span style="color:#e67e23">.</span>
 
 ---
 
-## <span style="color:#8B4513">🔧 Troubleshooting</span>
+## <span style="color:#8B4513">Troubleshooting</span>
 
 **<span style="color:#ff6b6b">No sound playing?</span>**
 - <span style="color:#e67e23">Run</span> `/srlu test` <span style="color:#e67e23">to verify the addon is active and sound is working</span>
@@ -277,26 +277,26 @@ _<span style="color:#e67e23">See</span> [<span style="color:#8B4513">docs/CHANGE
 
 ---
 
-## <span style="color:#8B4513">🤝 Contributing</span>
+## <span style="color:#8B4513">Contributing</span>
 
 <span style="color:#e67e23">Contributions are welcome! Feel free to</span><span style="color:#3598db">:</span>
-- <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/SkyrimLevelUp/issues)
-- <span style="color:#ff6b6b">💡 **Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
-- <span style="color:#4ecdc4">🌍 **Add translations**</span> <span style="color:#e67e23">for more languages</span>
-- <span style="color:#2dc26b">⭐ **Star the repository**</span> <span style="color:#e67e23">to show your support</span>
+- <span style="color:#2dc26b">**Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/SkyrimLevelUp/issues)
+- <span style="color:#ff6b6b">**Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
+- <span style="color:#4ecdc4">**Add translations**</span> <span style="color:#e67e23">for more languages</span>
+- <span style="color:#2dc26b">**Star the repository**</span> <span style="color:#e67e23">to show your support</span>
 
 ---
 
 <div align="center">
 
-### <span style="color:#4ecdc4">🌟 Thank you for choosing </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods! 🌟</span>
+### <span style="color:#4ecdc4">Thank you for choosing </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods! </span>
 
-**<span style="color:#e67e23">Made with ❤️ by the</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#8B4513">Community</span>**
+**<span style="color:#e67e23">Made with by the</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#8B4513">Community</span>**
 **<span style="color:#2dc26b">Lead Developer</span><span style="color:#3598db">:</span>** [<span style="color:#b96ad9">DonnieDice</span>](https://github.com/donniedice)
 
 _<span style="color:#e67e23">"May your levels be swift and your fanfares be legendary!"</span>_
 
-**<span style="color:#8B4513">⚠️ WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia for Skyrim.</span>
+**<span style="color:#8B4513">WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia for Skyrim.</span>
 
 <img src="media/logo.png" alt="SRLU Logo" width="80">
 
